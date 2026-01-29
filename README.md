@@ -17,7 +17,7 @@
 - Основные команды Git
 - Скриншоты
 
----
+
 
 ## Структура проекта
 
@@ -48,12 +48,11 @@ Lab4_ISRPO_FIO/
 ---
 ### inline LaTeX
 $a^2 + b^2 = c^2$
----
 ### Block LaTeX
 $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
----
+
 ### Ссылка на репозиторий
 
 **Мой репозиторий:** [GitHub](https://github.com/Forinarrsz/lab4_isrpo_shuvalova.git)
@@ -61,3 +60,15 @@ $$
 ---
 
 ### Скриншоты из папки repo
+1. ![screenshot 1](repo/backend_shuvalova_isp-231.png)
+----
+2. ![screenshot 2](repo/browser_shuvalova_isp-231.png)
+----
+3. ![screenshot 3](repo/git_shuvalova_isp-231.png)
+----
+4. ![screenshot 4](repo/terminal_shuvalova_isp-231.png)
+
+
+### Заключение
+---
+Проект позволяет закрепить навыки работы с Git, структурированием проектов, использованием Markdown для документации, а также практическое применение команд терминала и основных технологий разработки.
