@@ -6,5 +6,7 @@ class Program
     {
         Console.WriteLine("Здравствуйте! Добро пожаловать в программу.");
         string fio = "Shuvalova Alina";
+        string group = "Group: ISP-231";
+        DateTime now = DateTime.Now;
     }
 }
